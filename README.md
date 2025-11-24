@@ -91,7 +91,7 @@ struct Policy {
 
  ## output photos
 
- ###**Main Maenu**
+ ###**Main Menu**
 
  <img width="274" height="162" alt="Screenshot 2025-11-22 112513" src="https://github.com/user-attachments/assets/581eaf63-f80e-4a1f-92c5-e4fd3b92af51" />
 
@@ -103,7 +103,7 @@ struct Policy {
 
 <img width="594" height="307" alt="Screenshot 2025-11-22 120048" src="https://github.com/user-attachments/assets/0babb1f1-c168-4588-b8c6-14a130d041f5" />
 
-###**Search Polici by Title**
+###**Search Policy by Title**
 
 <img width="597" height="140" alt="Screenshot 2025-11-22 120218" src="https://github.com/user-attachments/assets/5c80e1db-b864-4ad3-a1ce-7a9caafc9f57" />
 
